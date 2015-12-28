@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">LoginSample</string>
     <string name="fb_login_text">facebookでログイン</string>
-    <string name="app_id">569665643192371</string>
+    <string name="app_id"></string>
 </resources>
